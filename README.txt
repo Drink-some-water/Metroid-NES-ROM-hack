@@ -2,9 +2,9 @@ This is a very basic rom manipulation to change the color of the main character 
 I also added my name to the start menu. 
 
 To run the file I would suggest using 
-Mesen: 
+Mesen: https://www.mesen.ca/
 OR
-FCEUX: 
+FCEUX: https://fceux.com/web/home.html
 
 
 A brief description of my work:
